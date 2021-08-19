@@ -28,6 +28,6 @@ export default new Router({
       path: '/:employee_id',
       name: 'viewempl',
       component: ViewEmpl
-    },
+    }
   ]
 })
